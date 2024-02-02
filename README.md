@@ -25,5 +25,5 @@ Challenge proposed by Tunts Rocks consisting in detemining grades and frequencie
  ```
 # Web Deployed Version
 
-- Access [Desafio Tunts.Rocks 2024](https://desafiotrocks24-1-q8445173.deta.app/) and install on your Space
+- Access [Desafio Tunts.Rocks 2024](https://desafiotrocks24-1-q8445173.deta.app/) 
  
