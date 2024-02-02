@@ -2,7 +2,7 @@
 
 ##  Python App 
 
-Challenge proposed by Tunts Rocks consisting in detemining grades and frequencies to determine whether or not the students were approved or not.
+Challenge proposed by Tunts Rocks consisting in using Google Sheet API access methods and, by detemining grades and frequencies, determine whether or not the students were approved or not.
 
 ## Getting Started
 
