@@ -2,7 +2,7 @@
 
 ##  Python App 
 
-Challenge proposed by Tunts Rocks consisting in using Google Sheet API access methods and, by detemining grades and frequencies, determine whether or not the students were approved or not through the following Google Sheet
+Challenge proposed by Tunts Rocks, a Python integration using Google Sheet RESTful API access methods. By calculating grades and frequencies, this application determine whether or not students were approved and displays the results on the Google Sheet
 Engenharia de Software – Desafio Bruno César Martins - (https://docs.google.com/spreadsheets/d/1RXM7PvfGxLBOxhanhrZtlv4i1Y5qp7fqAJ7InrVjqrY/edit#gid=0)
 
 ## Getting Started
